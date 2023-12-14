@@ -1,0 +1,13 @@
+server:
+  port: "8080"
+  host: "localhost"
+  secret: "webmidexam"
+database:
+  host: "localhost"
+  name: "postgres"
+  user: "postgres"
+  password: "webmidsecret"
+route:
+  basket: "/basket"
+  login: "/login"
+  signup: "/signup"
